@@ -1,0 +1,14 @@
+{
+  "name": "nicolas-caceres-exercise",
+  "version": "1.0.0",
+  "description": "ejercicios modulo6 sesion 5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Caceres Latorre",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
